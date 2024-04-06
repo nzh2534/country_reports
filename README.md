@@ -11,14 +11,15 @@ Informed Country Offices on a reoccuring basis of the recent spending by the US 
 📊 [Report 2](https://github.com/nzh2534/country_reports/blob/main/README.md#report-2) Creating custom HTML/CSS/JS reports to show available opportunities in Grants.Gov grouped by CFDA categories (excluding CFDA categories with no projects performed in a given locations in the past 5 fiscal years)
 
 ## Screenshots
----
 
-## [Report 1]
+### [Report 1]
+---
 
 ![USAID Report](https://github.com/nzh2534/country_reports/blob/main/awards1.png)
 
 ![USAID Report](https://github.com/nzh2534/country_reports/blob/main/awards2.png)
 
-## [Report 2]
+### [Report 2]
+---
 
 ![Grants.Gov Report](https://github.com/nzh2534/country_reports/blob/main/opensopps.png)
