@@ -4,7 +4,7 @@ Informed Country Offices on a reoccuring basis of the recent spending by the US 
 
 ⚡ Pulling data from USAspending.gov API to see spending by country and CFDA category
 
-📊 [Report 1](https://github.com/nzh2534/country_reports/blob/main/README.md#report-1) Creating custom HTML/CSS/JS reports to summarize recent CFDA spending by country listing specific awards and respective USAspending.gov entry link
+📊 [Report 1](https://github.com/nzh2534/country_reports/blob/main/README.md#report-1) Creating custom HTML/CSS/JS reports to summarize recent CFDA spending by country and listing specific awards and respective USAspending.gov entry links
 
 🔎 Using the historical CFDA spending to filter Grants.gov opportunities across 18 Country Offices, and Filtering Grants.Gov against a comprehensive list of countries/cities/nationalities/languages/linguistic groups to not be included in reports (ensuring data is relevant for country offices)
 
