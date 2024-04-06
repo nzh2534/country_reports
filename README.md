@@ -12,8 +12,12 @@ Informed Country Offices on a reoccuring basis of the recent spending by the US 
 
 ## Screenshots
 
-(*)
+### [Report 1]
 
-![USAID Report](https://github.com/nzh2534/usg_reports/blob/main/usaidreport.png)
+![USAID Report](https://github.com/nzh2534/country_reports/blob/main/awards1.png)
 
-![Grants.Gov Report](https://github.com/nzh2534/usg_reports/blob/main/grantsgov2.png)
+![USAID Report](https://github.com/nzh2534/country_reports/blob/main/awards2.png)
+
+### [Report 2]
+
+![Grants.Gov Report](https://github.com/nzh2534/country_reports/blob/main/openopps.png)
